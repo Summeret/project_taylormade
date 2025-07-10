@@ -1,0 +1,25 @@
+/* common.css */
+/* ================= header */
+header  {}
+header .ad_bnr {}
+header .ad_bnr a {}
+header .ad_bnr a img {}
+header .ad_main {}
+header .ad_main .main_photo {}
+header .ad_main .main_photo .header {}
+header .ad_main .main_photo .header .top {}
+header .ad_main .main_photo .header .top a {}
+header .ad_main .main_photo .header .top a img {}
+header .ad_main .main_photo .header .bottom {}
+header .ad_main .main_photo .header .bottom h1 {}
+header .ad_main .main_photo .header .bottom h1 a {}
+header .ad_main .main_photo .header .bottom h1 a img {}
+header .ad_main .main_photo .header .bottom .right {}
+header .ad_main .main_photo .header .bottom .right .search_g {}
+header .ad_main .main_photo .header .bottom .right .search_g input {}
+header .ad_main .main_photo .header .bottom .right .search_g img {}
+header .ad_main .main_photo .header .bottom .right .gnb {}
+header .ad_main .main_photo .header .bottom .right .gnb li {}
+header .ad_main .main_photo .header .bottom .right .gnb li a {}
+
+/* ================= footer */
